@@ -1441,7 +1441,7 @@ $lang['clients_list_phone']                = 'Telefono';
 $lang['client_expenses_tab']               = 'Spese';
 $lang['customers_summary']                 = 'Riepilogo Clienti';
 $lang['customers_summary_active']          = 'Attivo';
-$lang['customers_summary_inactive']        = 'Inativo';
+$lang['customers_summary_inactive']        = 'Inattivo';
 $lang['customers_summary_logged_in_today'] = 'Accesso Effettuato Oggi';
 
 # Authentication
@@ -3258,8 +3258,8 @@ $lang['your_version'] = 'Your Version';
 $lang['using_latest_version'] = 'You are using the latest version';
 $lang['mark_as_active'] = 'Mark as active';
 $lang['customer_inactive_message'] = 'This is inactive customer profile and some features may be disabled';
-$lang['active_customers'] = 'Active Customers';
-$lang['inactive_active_customers'] = 'Inactive Customers';
+$lang['active_customers'] = 'Clienti Attivi';
+$lang['inactive_active_customers'] = 'Clienti Inattivi';
 $lang['include_proposal_items_merge_field_help'] = 'Include proposal items with merge field anywhere in proposal content as %s';
 $lang['all_data_synced_successfuly'] = 'All data synced successfully';
 $lang['sync_now'] = 'Sync Now';
