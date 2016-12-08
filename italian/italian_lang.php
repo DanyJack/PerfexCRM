@@ -30,7 +30,7 @@ $lang['invoice_status_not_paid_completely'] = 'Parzialmente Pagata';
 $lang['invoice_pdf_heading'] = 'FATTURA';
 
 $lang['invoice_table_item_heading']            = 'Voce';
-$lang['invoice_table_quantity_heading']        = 'Qnt';
+$lang['invoice_table_quantity_heading']        = 'Qtà';
 $lang['invoice_table_rate_heading']            = 'Prezzo';
 $lang['invoice_table_tax_heading']             = 'Tassa';
 $lang['invoice_table_amount_heading']          = 'Importo';
@@ -2006,7 +2006,7 @@ $lang['proposal_open_till']                     = 'Aperta Fino';
 $lang['proposal_status_open']                   = 'Aperta';
 $lang['proposal_status_accepted']               = 'Accettata';
 $lang['proposal_status_declined']               = 'Declinata';
-$lang['proposal_status_sent']                   = 'Invia';
+$lang['proposal_status_sent']                   = 'Inviata';
 $lang['proposal_expired']                       = 'Scaduta';
 $lang['proposal_subject']                       = 'Oggetto';
 $lang['proposal_total']                         = 'Totale';
